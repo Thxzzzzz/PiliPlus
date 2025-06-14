@@ -138,3 +138,4 @@ app.*.symbols
 /lib/build_config.dart
 
 devtools_options.yaml
+.cursor/
